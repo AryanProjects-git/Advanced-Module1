@@ -1,6 +1,6 @@
 ---
 
-# DeFi Empire: DeFi Kingdom Clone on Avalanche
+# Create Subnet and then Deploy it
 
 ## Overview
 DeFi Empire is an exciting blockchain-based gaming experience where players can collect, build, and battle with their digital assets. By engaging in various game activities, players have the opportunity to earn rewards. This project is a DeFi Kingdom clone on the Avalanche network, merging decentralized finance and gaming to create an immersive universe.
